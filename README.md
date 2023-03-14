@@ -13,7 +13,7 @@ https://viacep.com.br/
 Para encontrar o cep é necessário informar o estado, município e rua. Caso o endeereço informado tenha mais de um cep encontrado, apenas o primeiro é informado.    
 
 ## Layout 
-![Windows](https://github.com/Alan-oliveir/Buscar_END/blob/main/test_images/Buscar_cep_screenshot.jpg) 
+![Windows](https://github.com/Alan-oliveir/Buscar_CEP/blob/main/test_images/Buscar_cep_screenshot.jpg) 
 
 # Tecnologias utilizadas
 ## Linguagem

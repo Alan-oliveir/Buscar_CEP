@@ -35,6 +35,6 @@ O programa foi desenvolvido para usar no Windows. Baixe o arquivo Buscar_cep.exe
 
 # Autor
 
-Alan de Oliveira Gonnçalves
+Alan de Oliveira Gonçalves
 
 www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258

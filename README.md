@@ -31,7 +31,7 @@ Para encontrar o cep é necessário informar o estado, município e rua. Caso o 
 
 # Como executar o projeto
 
-O programa foi desenvolvido para usar no Windows. Baixe o arquivo Buscar_cep.exe, abra o progarama e digite nos respectivos campos o estado, município e rua para encontrar o cep.
+O programa foi desenvolvido para usar no Windows. Baixe o arquivo Buscar_cep.exe, abra o programa e digite nos respectivos campos o estado, município e rua para encontrar o cep.
 
 # Autor
 

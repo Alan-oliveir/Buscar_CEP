@@ -1,6 +1,6 @@
  # Buscar CEP
  
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alan-oliveir/Buscar_END/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alan-oliveir/Buscar_CEP/blob/main/LICENSE)
 
 # Sobre o projeto
 

@@ -4,13 +4,13 @@
 
 # Sobre o projeto
 
-Buscar CEP é um programa simples eescrito em python que busca o cep do endereço informado.
+Buscar CEP é um programa simples escrito em python que busca o cep do endereço informado.
 
-O programa utiliza a API Via CEP para a partir do endereço informado enconntrar o cep.
+O programa utiliza a API Via CEP para a partir do endereço informado encontrar o cep.
 
 https://viacep.com.br/
 
-Para encontrar o cep é necessário informar o estado, município e rua. Caso o endeereço informado tenha mais de um cep encontrado, apenas o primeiro é informado.    
+Para encontrar o cep é necessário informar o estado, município e rua. Caso o endeereço informado tenha mais de um cep encontrado, apenas o primeiro cep encontrado é exibido no programa.    
 
 ## Layout 
 ![Windows](https://github.com/Alan-oliveir/Buscar_CEP/blob/main/test_images/Buscar_cep_screenshot.jpg) 
